@@ -1,3 +1,3 @@
 # BiomeBridge
 
-Addon for [ExtraBiomesXL](https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl) to fully replace [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty).
+A complete rewrite of [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty).

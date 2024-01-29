@@ -3,7 +3,7 @@
 	"modList": [{
 		"modid": "${modId}",
 		"name": "${modName}",
-		"description": "Addon for ExtramBiomesXL to fully replace Biomes O' Plenty",
+		"description": "A complete rewrite of Biomes O' Plenty",
 		"version": "${modVersion}",
 		"mcversion": "${minecraftVersion}",
 		"url": "https://github.com/GTNewHorizons/BiomeBridge",
